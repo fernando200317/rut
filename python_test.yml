@@ -1,3 +1,0 @@
-- name: Nombre del workflow.
-- on: Eventos que activan el workflow.
-- jobs: Trabajos a ejecutar.
